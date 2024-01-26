@@ -1,1 +1,1 @@
-# Traducto
+# Traductor
