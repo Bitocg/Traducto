@@ -9,7 +9,7 @@ Implementación del modelo 1 con Fast Api. Esta carpeta contiene los archivos Di
 ## Carpeta Ejercicio_3: 
 Contiene un notebook donde selecciono un modelo de Hugging Face y un script que implementa un flujo de ejecución asíncrono que, mediante la API de FastAPI ejecuta los dos modelos (El del paso 1 y el del paso 3) y muestra ambos resultados.
 
-## SCript Request:
+## Script Request:
 script para realizar la petición a la API (vale para ambas APIS)
 
 Los notebooks están programados para ejecutarse en google colab y los scripts disponen de su enviroment para ser ejecutados.
