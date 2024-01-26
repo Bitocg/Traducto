@@ -1,6 +1,6 @@
 # Traductor
 ## Carpeta Ejercicio_1: 
-Hay dos tipos de modelo bastante similares con la única diferencia de que el 1º es con un corpus limpio de pares de frases en inglés y español y el 2º es con un corpus más 
+Hay dos tipos de modelos bastante similares con la única diferencia de que el 1º es con un corpus limpio de pares de frases en inglés y español y el 2º es con un corpus más 
 "sucio" que es la wikipedia en español y en inglés. Mi idea era presentaros solo el segundo pero al intentar implementarlo en el ejercicio 2, me di cuenta que necesitaba los diccionarios de tokens con los que entrenó el modelo (los cuales no guarde durante el entrenamiento) y al haber seleccionado aleatoriamente 200.000 pares de frases no pude replicar la aletoriedad para conseguir los diccionarios con los que entrenó y tampoco me daba tiempo a volver a entrenarlo, entonces tuve que usar el modelo 1 para el ejercicio 2.
 
 ## Carpeta Ejercicio_2: 
